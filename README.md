@@ -1,7 +1,7 @@
 # Skyline-tech
 
 
-#TABLE1
+#TABLE3
 
 
-table1 contains the register of cohort13 members,this register enables obidients tech space to keep track of activities going on in cohort13 and to also monitor their learning process
+table3 contains data of okwuolisa justine who is a full stack enginneering student in cohort13 currently undergoing traing in skline ICT consult limited.
